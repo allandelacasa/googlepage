@@ -1,0 +1,182 @@
+header {
+
+	display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    font-size: 13px;
+    font-family: arial, sans-serif;
+    padding: 6px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+
+footer {
+
+	display: flex;
+	flex-direction: flex-end;
+}
+.block {
+
+	margin-top: 300px;
+}
+
+.gmail {
+
+	padding-left: 15px;
+
+}
+
+.images {
+
+	padding-left: 20px;
+	padding-right: 15px;
+}
+
+
+}
+.icon {
+
+	padding-left: 15px;
+}
+
+.box a {
+
+	padding-left: 15px;
+	padding: 9px 23px;
+	margin: 0px 8px;
+	background-color: #2b7de9;
+    border: 1px solid transparent;
+    display: inline-block;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+header img {
+
+	width: 24px;
+	height: 24px;
+	padding-right: 15px;
+}
+
+
+.logo21 {
+
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.logo22 img {
+
+width: 272px;
+height: 92px;
+padding-top: 150px;
+
+}
+
+
+.threeelements
+{
+
+display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.barre {
+
+	padding: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    }
+
+
+
+.bouton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.bouton1 {
+
+    padding: 0px 4px 0px 4px;
+}
+
+.bouton2 {
+
+    padding: 0px 4px 0px 4px;
+
+}
+
+
+.basdepage {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+
+
+.firstone {
+
+display: flex;
+justify-content: space-between;
+
+padding-right: 750px;
+}
+
+.secondone{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+
+.aboutt {padding-right: 10px;}
+.advert{padding-right: 10px;}
+
+.busi{padding-right: 10px;}
+
+.hsw{padding-right: 10px;}
+
+.CI{padding-right: 10px;}
+
+.pri{padding-right: 10px;}
+{padding-right: 500px;}
+
+.term{padding-right: 10px;}
+
+.set{padding-right: 10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
